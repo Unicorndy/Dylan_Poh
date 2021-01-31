@@ -1,7 +1,7 @@
 # Dylan Poh Portfolio
 
 # [Project 1: Covid19 Dashboard Web App using Python (Plotly Dash)](https://github.com/Unicorndy/covid19_dashboard)
-### Feature on https://moderndata.plotly.com/covid-19-dash-apps/ 
+### Feature on [Plotly - https://moderndata.plotly.com/covid-19-dash-apps/](https://moderndata.plotly.com/covid-19-dash-apps/) 
 Read more on https://www.reddit.com/r/Python/comments/g5ymoy/six_months_into_python_and_data_science_my_first/  
 
 Create your own Covid19 Data Visualization dashboard web app with free resources using python only.
