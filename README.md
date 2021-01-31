@@ -40,15 +40,15 @@ Telegram Bot Demo( Welcome to try at [Dog Whisperer Bot](https://t.me/DogWhisper
 * Vsualization Jupyter Notebook - Angellist_Data_visualization.ipynb in folder Data_Visualization
 
 AngellistTop 20 Market Singapore
-![Treemap Top 20 Market Singapore](/images/Top20MarketType(Singapore).png)
+![Treemap Top 20 Market Singapore](/images/Top20MarketType_Singapore.png)
 
 ---
 # [Project 5: Housing Prices Competition](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users)
 XGboost with hyperopt (Mean Absolute Error: 14876) Rank 627th on Kaggle - Top 4%
 Code uploaded in the folder [XGboost_Hyperopt](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/tree/master/XGboost_Hyperopt).
 ***
-![alt text](/images/Rank627%20on%20kaggle.jpg)
-![alt text](/images/Top%204percent%20on%20kaggle.jpg)
+![alt text](/images/Rank627_on_kaggle.jpg)
+![alt text](/images/Top_4percent_on_kaggle.jpg)
 
 ---
 # [Project 6: Occulus VR using Unity - Music Slime Beat Saber Clone](https://github.com/Unicorndy/Music_Slime_Beat_Saber_Clone_VR)
@@ -68,6 +68,6 @@ This script is based on https://towardsdatascience.com/in-12-minutes-stocks-anal
 The Quadratic Regression 2 with the highest confidence among the 4 regression models was choosen: 0.7919698975806313
 Blue line shows the forecast based on Quadratic Regression 2, indicating a downward trend of the stock.
 
-![alt text](/images/Forecast%20_for_NXPI_Stock.png?raw=true)
+![alt text](/images/Forecast_for_NXPI_Stock.png?raw=true)
 
 
