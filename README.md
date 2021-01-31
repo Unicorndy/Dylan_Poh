@@ -80,6 +80,6 @@ This script is based on https://towardsdatascience.com/in-12-minutes-stocks-anal
 The Quadratic Regression 2 with the highest confidence among the 4 regression models was choosen: 0.7919698975806313
 Blue line shows the forecast based on Quadratic Regression 2, indicating a downward trend of the stock.
 
-![alt text](/images/Forecast_for_NXPI_Stock.png?raw=true)
+![alt text](/images/Forecast_for_NXPI_Stock.png)
 
 
