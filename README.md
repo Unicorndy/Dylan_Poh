@@ -18,6 +18,8 @@ Version 2.0 Dashboard based on bootstrap 4
 ![Dark to Light Theme](/images/DarktoLightV2.gif)  
 
 ---
+
+
 # [Project 2: Image Story Generator - Collaboration Project](https://github.com/Fairy-Tale-Team/image_story_generator)
 ![Header](/images/Header_1.png)
 
@@ -28,6 +30,8 @@ A webapp created with FLASK API that utilizes computer vision and natural langua
 *AI Apprenticeship Programme (AIAP®) Capstone Project- Aug 2020*
 
 ---
+
+
 # [Project 3: FASTAI Image Classification with Azure Function and Telegram bot Deployment](https://github.com/Unicorndy/FASTAI_Image_Classification_with_Azure_Function_and_Telegram_bot_Deployment)
 A mini project that uses FASTAI Image Classification to classify 3 types of dogs namely, **Pug, French Bulldog,** and **Boston Terrier**.  The trained model will be deployed to Azure Function and the user can send in their dog images to Telegram bot and receive the breed type.
 
@@ -35,6 +39,8 @@ Telegram Bot Demo( Welcome to try at [Dog Whisperer Bot](https://t.me/DogWhisper
 ![Telegram Bot Gif](/images/telegrambot_sample.gif)
 
 ---
+
+
 # [Project 4: Web Scraping Angellist Companies](https://github.com/Unicorndy/web_scrape_angellist_companies)
 * Web scraping Angellist companies and Data Visualization with Selenium Webdriver
 * Vsualization Jupyter Notebook - Angellist_Data_visualization.ipynb in folder Data_Visualization
@@ -43,6 +49,8 @@ AngellistTop 20 Market Singapore
 ![Treemap Top 20 Market Singapore](/images/Top20MarketType_Singapore.png)
 
 ---
+
+
 # [Project 5: Housing Prices Competition](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users)
 XGboost with hyperopt (Mean Absolute Error: 14876) Rank 627th on Kaggle - Top 4%
 Code uploaded in the folder [XGboost_Hyperopt](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/tree/master/XGboost_Hyperopt).
@@ -51,6 +59,8 @@ Code uploaded in the folder [XGboost_Hyperopt](https://github.com/Unicorndy/Hous
 ![alt text](/images/Top_4percent_on_kaggle.jpg)
 
 ---
+
+
 # [Project 6: Occulus VR using Unity - Music Slime Beat Saber Clone](https://github.com/Unicorndy/Music_Slime_Beat_Saber_Clone_VR)
 A clone Oculus VR Beat Saber Game for my personal project. (Title: Slime Music Beat)
 
@@ -60,6 +70,8 @@ You can view the gameplay here https://www.youtube.com/watch?v=eiCgn92ClfY&t=1s
 ![alt text](/images/Slime_music_beat_3sec.gif)
 
 ---
+
+
 # [Project 7: Stock_analysis_Pandas_Scikit_Learn](https://github.com/Unicorndy/Stock_analysis_Pandas_Scikit_Learn)
 Using Pandas and Scikit Learn to pull data from Yahoo Stock for analysis
 
