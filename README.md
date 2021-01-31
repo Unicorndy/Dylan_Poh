@@ -8,12 +8,12 @@ Create your own Covid19 Data Visualization dashboard web app with free resources
 * Engineered, clean and extract features from Johns Hopkins University Center Dataset to visualize meaningful data.
 * Built a client facing API using Plotly Dash
 
-Version 1.0 Dashboard (Source Code - `covid19.py` included)
+Version 1.0 Dashboard  
 **Click [here](https://covid19-dashboard-online.herokuapp.com/) to access the web app**  
 ![Ver 1.0 top](/images/1_git.png)
 ![Ver 1.0 bottom](/images/2_git.png)
 
-Version 2.0 Dashboard based on bootstrap 4 (Source Code not included as it is still wip)
+Version 2.0 Dashboard based on bootstrap 4  
 **Click [here](https://covid19dashboardsg.herokuapp.com//) to take a look at the web app**  
 ![Dark to Light Theme](/images/DarktoLightV2.gif)  
 
