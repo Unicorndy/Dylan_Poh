@@ -2,7 +2,7 @@
 
 # [Project 1: Covid19 Dashboard Web App using Python (Plotly Dash)](https://github.com/Unicorndy/covid19_dashboard)
 ### Feature on [Plotly - https://moderndata.plotly.com/covid-19-dash-apps/](https://moderndata.plotly.com/covid-19-dash-apps/) 
-Read more on https://www.reddit.com/r/Python/comments/g5ymoy/six_months_into_python_and_data_science_my_first/  
+Read more on [https://www.reddit.com/r/Python/comments/g5ymoy/six_months_into_python_and_data_science_my_first/](https://www.reddit.com/r/Python/comments/g5ymoy/six_months_into_python_and_data_science_my_first/)
 
 Create your own Covid19 Data Visualization dashboard web app with free resources using python only.
 * Engineered, clean and extract features from Johns Hopkins University Center Dataset to visualize meaningful data.
@@ -75,7 +75,7 @@ You can view the gameplay here https://www.youtube.com/watch?v=eiCgn92ClfY&t=1s
 # [Project 7: Stock_analysis_Pandas_Scikit_Learn](https://github.com/Unicorndy/Stock_analysis_Pandas_Scikit_Learn)
 Using Pandas and Scikit Learn to pull data from Yahoo Stock for analysis
 
-This script is based on https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7
+This script is based on [https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7](https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7)
 
 The Quadratic Regression 2 with the highest confidence among the 4 regression models was choosen: 0.7919698975806313
 Blue line shows the forecast based on Quadratic Regression 2, indicating a downward trend of the stock.
