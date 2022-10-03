@@ -1,4 +1,5 @@
 # Dylan Poh Portfolio
+https://www.linkedin.com/in/dylan-poh/
 
 # [Project 1: Covid19 Dashboard Web App using Python (Plotly Dash)](https://github.com/Unicorndy/covid19_dashboard)
 ### Feature on [Plotly - https://moderndata.plotly.com/covid-19-dash-apps/](https://moderndata.plotly.com/covid-19-dash-apps/) 
